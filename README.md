@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [07083059618]
+- 📫 How to reach me [+2347083059618]
 
 <!---
 Junior4j/Junior4j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
